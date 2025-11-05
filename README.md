@@ -1,5 +1,9 @@
 # TUGAS-AKHIR-JUDUL-2-PRAKTIKUM-JARINGAN-KOMPUTER
 
+Nama: Muhammad Robbani Narsam 
+NPM: 2315061029
+Kelas: PJK-A
+
 
 1. SS ping PC A ke PC B Gagal
 <img width="847" height="267" alt="Screenshot 2025-11-05 195835" src="https://github.com/user-attachments/assets/6d2fbe93-e94c-4133-a7ef-2358db2e7b69" />
